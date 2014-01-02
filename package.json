@@ -1,0 +1,20 @@
+{
+  "name": "apis-test-helpers",
+  "version": "0.0.1",
+  "description": "helpers used in integration and unit tests of apis endpoints",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "test",
+    "helpers",
+    "apis",
+    "endpoint"
+  ],
+  "author": "Arnor Heidar Sigurdsson <arnorhs@gmail.com>",
+  "license": "MIT"
+}
