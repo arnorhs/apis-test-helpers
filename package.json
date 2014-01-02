@@ -20,5 +20,13 @@
     "Kristján Ingi Mikaelsson <kristjanmik@gmail.com>",
     "Arnor Heidar Sigurdsson <arnorhs@gmail.com>"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arnorhs/apis-test-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arnorhs/apis-test-helpers/issues"
+  },
+  "homepage": "https://github.com/arnorhs/apis-test-helpers"
 }
