@@ -1,6 +1,6 @@
 {
   "name": "apis-test-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "helpers used in integration and unit tests of apis endpoints",
   "main": "index.js",
   "directories": {
@@ -16,5 +16,9 @@
     "endpoint"
   ],
   "author": "Arnor Heidar Sigurdsson <arnorhs@gmail.com>",
+  "contributors": [
+    "Kristján Ingi Mikaelsson <kristjanmik@gmail.com>",
+    "Arnor Heidar Sigurdsson <arnorhs@gmail.com>"
+  ],
   "license": "MIT"
 }
