@@ -1,6 +1,6 @@
 {
   "name": "apis-test-helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "helpers used in integration and unit tests of apis endpoints",
   "main": "index.js",
   "directories": {
